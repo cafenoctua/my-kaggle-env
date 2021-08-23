@@ -2,7 +2,7 @@ pip==18.1
 setuptools==39.1.0
 wheel==0.30.0
 jupyter==1.0.0
-jupyterlab==1.2.4
+jupyterlab==1.2.21
 matplotlib==2.2.2
 seaborn==0.8.1
 scikit_learn==0.20.0
