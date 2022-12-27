@@ -1,5 +1,5 @@
 pip==18.1
-setuptools==39.1.0
+setuptools==65.5.1
 wheel==0.30.0
 jupyter==1.0.0
 jupyterlab==1.2.4
